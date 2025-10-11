@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LukaMarinkic or Luka
-- 👀 I’m interested in Data Science, Artifical Inteligence and Entrepreneurship
-- 🌱 I’m currently learning Machine Learning in Python with Pytorch
+- 👀 I’m interested in Data Science, Artifical Inteligence and Science
 - 💞️ I’m looking to collaborate on Open Source Projects that contribute to society
 - 📫 How to reach me via. E-mail: luka.marinkic.personal@gmail.com
 
