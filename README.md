@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @LukaMarinkic or Luka
-- 👀 I’m interested in Data Science, Artifical Inteligence and Science
-- 💞️ I’m looking to collaborate on Open Source Projects that contribute to society
-- 📫 How to reach me via. E-mail: luka.marinkic.personal@gmail.com
+- Hi, I’m @LukaMarinkic or Luka
+- I’m interested in Computer Science, Physics and Math
+- How to reach me via. E-mail: luka.marinkic.personal@gmail.com
 
-Hello World! I hope we can have fun together, contribute to society and learn somethings on the way.
+Hello World! I have a lot to learn, but have an fascination with a lot on this site.
 
 <!---
 LukaMarinkic/LukaMarinkic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
